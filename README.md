@@ -8,7 +8,8 @@
 
 > a simple project to control your financial incomes and outcomes
 
-![Screenshot](gofinances-screenshot.png)
+![Listed Items](Listagem.png)
+![Cart](Carrinho.png)
 
 ## Install
 
