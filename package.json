@@ -1,0 +1,12 @@
+{
+  "name": "GoFinances",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": ["packages/*"]
+  },
+  "repository": "https://github.com/alektobias/GoFinances.git",
+  "author": "Alek Tobias <alektobias@gmail.com>",
+  "license": "MIT"
+}
